@@ -14,7 +14,7 @@ with st.sidebar:
     )
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
-    **RANTAI CRUISE** dibuat untuk memberikan pengalaman belajar interaktif bagi mahasiswa manajemen industri. Dengan modul terstruktur, kuis, dan forum kolaboratif, platform ini membantu mahasiswa:
+    **RANTAI INDUSTRIX** dibuat untuk memberikan pengalaman belajar interaktif bagi mahasiswa manajemen industri. Dengan modul terstruktur, kuis, dan forum kolaboratif, platform ini membantu mahasiswa:
 
     - Memahami konsep manajemen industri secara praktis.
     
